@@ -1,0 +1,5 @@
+# folder ignore
+testGame2/
+test/*.txt
+# txt-files
+#testGame2/*.txt
