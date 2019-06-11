@@ -62,8 +62,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GameScene.cs" />
+    <Compile Include="Assets\Scripts\Helper.cs" />
+    <Compile Include="Assets\Scripts\Manager.cs" />
     <Compile Include="Assets\Scripts\MenuScene.cs" />
     <Compile Include="Assets\Scripts\Preloader.cs" />
+    <Compile Include="Assets\Scripts\SaveManager.cs" />
+    <Compile Include="Assets\Scripts\SaveState.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/projects/Glide/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
