@@ -440,7 +440,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -811,6 +811,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ffe9d5c58281fd48a06b0b1e34594d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerMaterial: {fileID: 2100000, guid: 91349c8e2eae87243bec5368a657409e, type: 2}
+  playerColors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0, g: 1, b: 0.06900835, a: 1}
+  - {r: 0, g: 1, b: 0.91580486, a: 1}
+  - {r: 1, g: 0.39215687, b: 0.7734499, a: 1}
+  - {r: 0.99034953, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0.16606617, b: 1, a: 1}
+  - {r: 0.689497, g: 0, b: 1, a: 1}
+  - {r: 1, g: 0.051016767, b: 0, a: 1}
+  - {r: 1, g: 0.50181097, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  playerTrails:
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
+  - {fileID: 6290647429087230409, guid: e9a4429e6eb0ea04784133cf346ec403, type: 3}
   currentLevel: 0
   menuFocus: 0
 --- !u!4 &1786786454

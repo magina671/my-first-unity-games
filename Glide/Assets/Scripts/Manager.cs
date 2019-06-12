@@ -6,6 +6,10 @@ public class Manager : MonoBehaviour
 {
     public static Manager Instance { get; set; }
 
+    public Material playerMaterial;
+    public Color[] playerColors = new Color[10];
+    public GameObject[] playerTrails = new GameObject[10];
+
     private void Awake()
     {
         DontDestroyOnLoad(gameObject);
