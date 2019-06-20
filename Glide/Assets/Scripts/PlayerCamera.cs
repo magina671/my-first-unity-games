@@ -8,7 +8,7 @@ public class PlayerCamera : MonoBehaviour
 
     private Vector3 desiredPosition;
     private float offset = 1.5f;
-    private float distance = 3.5f;
+    private float distance = 1.5f;
 
     private void Update()
     {

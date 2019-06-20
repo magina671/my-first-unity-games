@@ -7,9 +7,9 @@ public class PlayerMotor : MonoBehaviour
 {
     private CharacterController controller;
 
-    private float baseSpeed = 10.0f;
-    private float rotSpeedX = 4.0f;
-    private float rotSpeedY = 2.0f;
+    private float baseSpeed = 9.0f;
+    private float rotSpeedX = 7.0f;
+    private float rotSpeedY = 5.0f;
 
     private float deathTime;
     private float deathDuration = 2;
