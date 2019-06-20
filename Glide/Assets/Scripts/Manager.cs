@@ -34,6 +34,12 @@ public class Manager : MonoBehaviour
             return a;
         }
 
+        //if all released
+        if (Input.touches.Length == 0)
+        {
+            activeTouches.Clear();
+        }
+
         //read all touches from user 
         Vector3 r = Vector3.zero;
         foreach (Touch touch in Input.touches)
