@@ -68,9 +68,14 @@
     <Compile Include="Assets\Scripts\MenuCamera.cs" />
     <Compile Include="Assets\Scripts\MenuPlayer.cs" />
     <Compile Include="Assets\Scripts\MenuScene.cs" />
+    <Compile Include="Assets\Scripts\Objective.cs" />
+    <Compile Include="Assets\Scripts\PlayerCamera.cs" />
+    <Compile Include="Assets\Scripts\PlayerMotor.cs" />
     <Compile Include="Assets\Scripts\Preloader.cs" />
+    <Compile Include="Assets\Scripts\Ring.cs" />
     <Compile Include="Assets\Scripts\SaveManager.cs" />
     <Compile Include="Assets\Scripts\SaveState.cs" />
+    <Compile Include="Assets\Scripts\Token.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/projects/Glide/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

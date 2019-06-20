@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameScene : MonoBehaviour
 {
@@ -10,8 +11,18 @@ public class GameScene : MonoBehaviour
     private float fadeInDuration = 2;
     private bool gameStarted;
 
+    public Transform arrow;
+    private Transform playerTransform;
+    public Objective objective;
+
     private void Start()
     {
+        // Let's find the player transform
+        playerTransform = FindObjectOfType<PlayerMotor>().transform;
+
+        //load up the level
+        SceneManager.LoadScene(Manager.Instance.currentLevel.ToString(), LoadSceneMode.Additive);
+
         //get the only canvasGroup in the scene
         fadeGroup = FindObjectOfType<CanvasGroup>();
 
@@ -21,6 +32,17 @@ public class GameScene : MonoBehaviour
 
     private void Update()
     {
+        if (objective != null)
+        {
+            // if we have an object
+
+            // Rotate the arrow
+            Vector3 dir = playerTransform.InverseTransformPoint(objective.GetCurrentRing().position);
+            float a = Mathf.Atan2(dir.x, dir.y) * Mathf.Rad2Deg;
+            a += 180;
+            arrow.transform.eulerAngles = new Vector3(0, 180, a);
+        }
+
         if(Time.timeSinceLevelLoad <= fadeInDuration)
         {
             //initial fade-in

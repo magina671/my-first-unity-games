@@ -14,12 +14,21 @@ public class SaveManager : MonoBehaviour
         Instance = this;
         Load();
 
+        
+
+        //are we using the accelerometer and can use it
+        if (state.usingAccelerometer && !SystemInfo.supportsAccelerometer)
+        {
+            // if we can not, make sure we are not trying next time
+            state.usingAccelerometer = false;
+            Save();
+        }
     }
 
     //Save the whole state of this SaveState script to the player pref
     public void Save()
     {
-        PlayerPrefs.SetString("save",Helper.Serialize<SaveState>(state));
+        PlayerPrefs.SetString("save", Helper.Encrypt(Helper.Serialize<SaveState>(state)));
     }
 
     //Load the previous saved state from the player prefs 
@@ -28,7 +37,9 @@ public class SaveManager : MonoBehaviour
         //Do we already have a save?
         if (PlayerPrefs.HasKey("save"))
         {
-            state = Helper.Deserialize<SaveState>(PlayerPrefs.GetString("save"));
+            //просмотр шифрования
+            //Debug.Log(PlayerPrefs.GetString("save"));
+            state = Helper.Deserialize<SaveState>(Helper.Dencrypt(PlayerPrefs.GetString("save")));
         }
         else
         {
