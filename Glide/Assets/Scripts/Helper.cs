@@ -43,7 +43,7 @@ public static class Helper
     }
 
     // Decrypt
-    public static string Dencrypt(string input)
+    public static string Decrypt(string input)
     {
         byte[] data = Convert.FromBase64String(input);
         using (MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider())

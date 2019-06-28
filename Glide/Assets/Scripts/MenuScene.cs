@@ -157,9 +157,9 @@ public class MenuScene : MonoBehaviour
 
             //set color of the image, based on if owned or not
             Image img = t.GetComponent<Image>();
-            img.color = SaveManager.Instance.IsColorOwned(i) ? Manager.Instance.playerColors[currentIndex] 
-                : Color.Lerp(Manager.Instance.playerColors[currentIndex], new Color(0,0,0,1) , 0.25f);
-             
+            img.color = SaveManager.Instance.IsColorOwned(i) ? Manager.Instance.playerColors[currentIndex]
+                : Color.Lerp(Manager.Instance.playerColors[currentIndex], new Color(0, 0, 0, 1), 0.25f);
+
             i++;
         }
 
@@ -183,7 +183,7 @@ public class MenuScene : MonoBehaviour
         //set the previous trail, to prevent bug when swaping later
         previousTrail = trailPanel.GetChild(SaveManager.Instance.state.activeTrail).GetComponent<RawImage>().texture;
     }
-     
+
     private void InitLevel()
     {
         //Just make sure we've assigned the references
@@ -202,10 +202,10 @@ public class MenuScene : MonoBehaviour
             Image img = t.GetComponent<Image>();
 
             //is it unlocked?
-            if ( i <= SaveManager.Instance.state.completedLevel)
+            if (i <= SaveManager.Instance.state.completedLevel)
             {
                 //it is unlocked!
-                if ( i== SaveManager.Instance.state.completedLevel)
+                if (i == SaveManager.Instance.state.completedLevel)
                 {
                     img.color = Color.white;
                 }

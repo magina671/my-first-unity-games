@@ -62,6 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\OPS\Obfuscator.Free\Attribute\DoNotObfuscateClassAttribute.cs" />
+    <Compile Include="Assets\OPS\Obfuscator.Free\Attribute\DoNotObfuscateMethodBodyAttribute.cs" />
+    <Compile Include="Assets\OPS\Obfuscator.Free\Attribute\DoNotRenameAttribute.cs" />
     <Compile Include="Assets\Scripts\GameScene.cs" />
     <Compile Include="Assets\Scripts\Helper.cs" />
     <Compile Include="Assets\Scripts\Manager.cs" />
@@ -76,6 +79,10 @@
     <Compile Include="Assets\Scripts\SaveManager.cs" />
     <Compile Include="Assets\Scripts\SaveState.cs" />
     <Compile Include="Assets\Scripts\Token.cs" />
+    <None Include="Assets\OPS\Obfuscator.Free\Version_History.txt" />
+    <None Include="Assets\OPS\Obfuscator.Free\Log\Android.txt" />
+    <None Include="Assets\OPS\Obfuscator.Free\Obfuscator_Settings.txt" />
+    <None Include="Assets\OPS\Obfuscator.Free\Obfuscator_Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/projects/Glide/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

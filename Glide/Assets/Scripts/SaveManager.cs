@@ -13,8 +13,9 @@ public class SaveManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
         Instance = this;
         Load();
-
         
+
+
 
         //are we using the accelerometer and can use it
         if (state.usingAccelerometer && !SystemInfo.supportsAccelerometer)
@@ -38,8 +39,8 @@ public class SaveManager : MonoBehaviour
         if (PlayerPrefs.HasKey("save"))
         {
             //просмотр шифрования
-            //Debug.Log(PlayerPrefs.GetString("save"));
-            state = Helper.Deserialize<SaveState>(Helper.Dencrypt(PlayerPrefs.GetString("save")));
+            Debug.Log(PlayerPrefs.GetString("save"));
+            state = Helper.Deserialize<SaveState>(Helper.Decrypt(PlayerPrefs.GetString("save")));
         }
         else
         {
@@ -69,7 +70,7 @@ public class SaveManager : MonoBehaviour
         if (state.gold >= cost)
         {
             //Enough money, remove grom the current gold stack
-            state.gold -= cost;
+           state.gold -= cost;
             UnlockColor(index);
 
             //saveprogress

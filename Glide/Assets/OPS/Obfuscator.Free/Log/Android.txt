@@ -1,0 +1,502 @@
+[Info][Process] Loading Editor Platform...
+[Info][Process] Found Editor Platform: WindowsEditorPlatform
+[Info][Process] Loading for BuildTarget Android Build Platform...
+[Info][Process] Found Build Platform: DefaultPlatform
+[Info][Process] Loading Dependencies...
+[Info][Process] Found Dependencies: 
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed\UnityEngine
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\PackageManager\Unity\PackageManager\2019.1.5
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\GUISystem
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\GUISystem\Editor
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\TestRunner\Editor
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\TestRunner
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\UnityExtensions\Unity\UnityVR\Editor
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\PlaybackEngines\windowsstandalonesupport
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\PlaybackEngines\AndroidPlayer
+C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Library\ScriptAssemblies
+D:\Unity\projects\Glide\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\Unity\projects\Glide\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\Unity\projects\Glide\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\Unity\projects\Glide\Assets\OPS\Editor\Plugins\Mono.Cecil
+D:\Unity\projects\Glide\Assets\OPS\Obfuscator.Free\Editor\Plugins
+D:\Unity\projects\Glide\Library\PackageCache\com.unity.ads@2.0.8\Editor
+D:\Unity\projects\Glide\Library\PackageCache\com.unity.analytics@3.3.2
+D:\Unity\projects\Glide\Library\PackageCache\com.unity.analytics@3.3.2
+D:\Unity\projects\Glide\Library\PackageCache\com.unity.analytics@3.3.2
+D:\Unity\projects\Glide\Library\PackageCache\com.unity.purchasing@2.0.6\Editor
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades
+C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\Managed
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
+C:\Program Files\Unity\Hub\Editor\2019.1.5f1\Editor\Managed
+[Info][Process] Loading Assembly Location...
+[Info][Process] For Assemblies: 
+Assembly-CSharp.dll
+Assembly-CSharp-firstpass.dll
+[Warning][Process] Could not find Assembly: Assembly-CSharp-firstpass.dll
+[Info][Process] Found Assemblies Location: 
+D:\Unity\projects\Glide\Library\ScriptAssemblies\Assembly-CSharp.dll
+[Info][Process] Start obfuscate Assemblies
+[Info][Process] Lock Assemblies
+[Info][Process] Loading Processings Steps...
+[Info][Process] Finished Processings Steps loading.
+[Info][Process] Processing Step: Init Assemblies
+[Info][Preprocess] [Assembly-CSharp] Searching Member References...
+[Info][Preprocess] [Assembly-CSharp] Searching Type References...
+[Info][Process] Finished Step: Init Assemblies
+[Info][Process] Processing Step: Init Methods
+[Info][Preprocess] [Assembly-CSharp] Searching Method Semantics...
+[Info][Process] Finished Step: Init Methods
+[Info][Process] Processing Step: Analyse Strings
+[Info][Analyse] [Assembly-CSharp] Analyse Strings...
+[Info][Analyse Files] Found Strings: 21
+[Info][Process] Finished Step: Analyse Strings
+[Info][Process] Processing Step: Analyse Files
+[Info][Analyse Files] Searching Gui Methods...
+[Info][Analyse Files] Found Gui Methods: 7
+[Info][Process] Finished Step: Analyse Files
+[Info][Process] Processing Step: Analyse Files
+[Info][Analyse Files] Searching Animation Methods...
+[Info][Analyse Files] Found Animation Methods: 0
+[Info][Process] Finished Step: Analyse Files
+[Info][Process] Processing Step: Analyse Namespaces
+[Info][Analyse] [Assembly-CSharp] Analyse Namespaces...
+[Info][Skip Namespace] [[Assembly-CSharp]GameScene] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Helper] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Manager] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuCamera] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuPlayer] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_0] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_1] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuScene/<>c__DisplayClass32_0] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]MenuScene] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Objective] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]PlayerCamera] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]PlayerMotor] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Preloader] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Ring] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]SaveManager] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]SaveState] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]Token] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateClassAttribute] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateMethodBodyAttribute] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotRenameAttribute] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=40] Because of settings.
+[Info][Skip Namespace] [[Assembly-CSharp]<PrivateImplementationDetails>] Because of settings.
+[Info][Process] Finished Step: Analyse Namespaces
+[Info][Process] Processing Step: Analyse Types
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Skip Type] [[Assembly-CSharp]GameScene] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Helper] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Manager] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]MenuCamera] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]MenuPlayer] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_0] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_1] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]MenuScene/<>c__DisplayClass32_0] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]MenuScene] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Objective] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]PlayerCamera] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]PlayerMotor] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Preloader] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Ring] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]SaveManager] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]SaveState] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]Token] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateClassAttribute] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateClassAttribute] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateMethodBodyAttribute] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateMethodBodyAttribute] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotRenameAttribute] Because of some addon: Obfuscator
+[Info][Skip Type] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotRenameAttribute] Because of settings.
+[Info][Skip Type] [[Assembly-CSharp]<PrivateImplementationDetails>] Because of some addon: Obfuscator
+[Info][Process] Finished Step: Analyse Types
+[Info][Process] Processing Step: Analyse Methods
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Skip Method] [[Assembly-CSharp]GameScene::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]GameScene::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]GameScene::CompleteLevel()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]GameScene::ExitScene()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]GameScene::ExitScene()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]GameScene::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]GameScene::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Helper::Serialize(!0)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Helper::Deserialize([netstandard]System.String)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Helper::Encrypt([netstandard]System.String)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Helper::Decrypt([netstandard]System.String)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Helper::.cctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Manager::get_Instance()] Because of some Addon: Obfuscator
+[Info][Skip Method] [[Assembly-CSharp]Manager::get_Instance()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Manager::set_Instance([Assembly-CSharp]Manager)] Because of some Addon: Obfuscator
+[Info][Skip Method] [[Assembly-CSharp]Manager::set_Instance([Assembly-CSharp]Manager)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Manager::Awake()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Manager::GetPlayerInput()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Manager::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Manager::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::BackToMainMenu()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::MoveToShop()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::MoveToLevel()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuCamera::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuPlayer::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]MenuPlayer::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuPlayer::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_0::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_0::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_0::<InitShop>b__0()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_1::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_1::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass31_1::<InitShop>b__1()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass32_0::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass32_0::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene/<>c__DisplayClass32_0::<InitLevel>b__0()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnPlayClick()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnPlayClick()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnShopClick()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnShopClick()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnBackClick()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnBackClick()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnColorBuySet()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnColorBuySet()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnTrailBuySet()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnTrailBuySet()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnTiltControl()] Because of some Addon: Gui or Animation method
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::OnTiltControl()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]MenuScene::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Objective::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Objective::NextRing()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Objective::GetCurrentRing()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Objective::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Objective::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]PlayerCamera::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]PlayerCamera::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]PlayerCamera::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]PlayerMotor::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]PlayerMotor::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]PlayerMotor::OnControllerColliderHit([UnityEngine.PhysicsModule]UnityEngine.ControllerColliderHit)] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]PlayerMotor::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]PlayerMotor::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Preloader::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Preloader::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Preloader::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Preloader::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Ring::Start()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Ring::ActivateRing()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Ring::OnTriggerEnter([UnityEngine.PhysicsModule]UnityEngine.Collider)] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Ring::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Ring::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::get_Instance()] Because of some Addon: Obfuscator
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::get_Instance()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::set_Instance([Assembly-CSharp]SaveManager)] Because of some Addon: Obfuscator
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::set_Instance([Assembly-CSharp]SaveManager)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::Awake()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::Save()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::Load()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::IsColorOwned([netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::IsTrailOwned([netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::BuyColor([netstandard]System.Int32 [netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::BuyTrail([netstandard]System.Int32 [netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::UnlockColor([netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::UnlockTrail([netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::CompleteLevel([netstandard]System.Int32)] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::ResetSave()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]SaveManager::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]SaveState::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]SaveState::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]Token::Update()] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Token::OnTriggerEnter([UnityEngine.PhysicsModule]UnityEngine.Collider)] Because of some Addon: Unity
+[Info][Skip Method] [[Assembly-CSharp]Token::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]Token::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateClassAttribute::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateClassAttribute::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateMethodBodyAttribute::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotObfuscateMethodBodyAttribute::.ctor()] Because of settings.
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotRenameAttribute::.ctor()] Because of some Addon: .Net Framework
+[Info][Skip Method] [[Assembly-CSharp]OPS.Obfuscator.Attribute.DoNotRenameAttribute::.ctor()] Because of settings.
+[Info][Process] Finished Step: Analyse Methods
+[Info][Process] Processing Step: Analyse Members
+[Info][Analyse] [Assembly-CSharp] Analyse Types...
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform GameScene::arrow] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]Objective GameScene::objective] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]Manager Manager::<Instance>k__BackingField] Because of some addon: Obfuscator
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Material Manager::playerMaterial] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Color[] Manager::playerColors] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.GameObject[] Manager::playerTrails] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 Manager::currentLevel] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 Manager::menuFocus] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuCamera::shopWaypoint] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuCamera::levelWaypoint] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 MenuScene/<>c__DisplayClass31_0::currentIndex] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass31_0::<>4__this] Because of some addon: .Net Framework
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass31_0::<>4__this] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 MenuScene/<>c__DisplayClass31_1::currentIndex] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass31_1::<>4__this] Because of some addon: .Net Framework
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass31_1::<>4__this] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 MenuScene/<>c__DisplayClass32_0::currentIndex] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass32_0::<>4__this] Because of some addon: .Net Framework
+[Info][Skip Field] [[Assembly-CSharp]MenuScene MenuScene/<>c__DisplayClass32_0::<>4__this] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.RectTransform MenuScene::menuContainer] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuScene::levelPanel] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuScene::colorPanel] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuScene::trailPanel] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.UI.Button MenuScene::tiltControlButton] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Color MenuScene::tiltControlEnabled] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Color MenuScene::tiltControlDisabled] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.UI.Text MenuScene::colorBuySetText] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.UI.Text MenuScene::trailBuySetText] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.UI.Text MenuScene::goldText] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.AnimationCurve MenuScene::enteringLevelZoomCurve] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform MenuScene::trailPreviewObject] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.RenderTexture MenuScene::trailPreviewTexture] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Material Objective::activeRing] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Material Objective::inactiveRing] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Material Objective::finalRing] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.Transform PlayerCamera::lookAt] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]UnityEngine.GameObject PlayerMotor::deathExplosion] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]SaveManager SaveManager::<Instance>k__BackingField] Because of some addon: Obfuscator
+[Info][Skip Field] [[Assembly-CSharp]SaveState SaveManager::state] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::gold] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::completedLevel] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::colorOwned] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::trailOwned] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::activeColor] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Int32 SaveState::activeTrail] Because of settings.
+[Info][Skip Field] [[Assembly-CSharp]System.Boolean SaveState::usingAccelerometer] Because of settings.
+[Info][Process] Finished Step: Analyse Members
+[Info][Process] Processing Step: Find obfuscated name for Members
+[Info][FindName] [Assembly-CSharp] Find Member Names...
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.CanvasGroup GameScene::fadeGroup] : a
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single GameScene::fadeInDuration] : b
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean GameScene::gameStarted] : c
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Transform GameScene::playerTransform] : d
+[Info][Found new Field Name] [[Assembly-CSharp]System.String Helper::hash] : e
+[Info][Found new Field Name] [[Assembly-CSharp]System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.Vector2> Manager::activeTouches] : f
+[Info][Found new Property Name] [[Assembly-CSharp]Manager Manager::Instance] : a
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 MenuCamera::desiredPosition] : g
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Quaternion MenuCamera::desiredRotation] : h
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 MenuCamera::startPosition] : i
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Quaternion MenuCamera::startRotation] : j
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.CanvasGroup MenuScene::fadeGroup] : a
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single MenuScene::fadeInSpeed] : k
+[Info][Found new Field Name] [[Assembly-CSharp]MenuCamera MenuScene::menuCam] : l
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32[] MenuScene::colorCost] : m
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32[] MenuScene::trailCost] : n
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 MenuScene::selectedColorIndex] : o
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 MenuScene::selectedTrailIndex] : p
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 MenuScene::activeColorIndex] : q
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 MenuScene::activeTrailIndex] : r
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 MenuScene::desiredMenuPosition] : s
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject MenuScene::currentTrail] : t
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean MenuScene::isEnteringLevel] : u
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single MenuScene::zoomDuration] : v
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single MenuScene::zoomTransition] : w
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Texture MenuScene::previousTrail] : x
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.GameObject MenuScene::lastPreviewObject] : y
+[Info][Found new Field Name] [[Assembly-CSharp]System.Collections.Generic.List`1<UnityEngine.Transform> Objective::rings] : z
+[Info][Found new Field Name] [[Assembly-CSharp]System.Int32 Objective::ringPassed] : ba
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.Vector3 PlayerCamera::desiredPosition] : g
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerCamera::offset] : bb
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerCamera::distance] : bc
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.CharacterController PlayerMotor::controller] : bd
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerMotor::baseSpeed] : be
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerMotor::rotSpeedX] : bf
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerMotor::rotSpeedY] : bg
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerMotor::deathTime] : bh
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single PlayerMotor::deathDuration] : bi
+[Info][Found new Field Name] [[Assembly-CSharp]UnityEngine.CanvasGroup Preloader::fadeGroup] : a
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single Preloader::loadTime] : bj
+[Info][Found new Field Name] [[Assembly-CSharp]System.Single Preloader::minimumLogoTime] : bk
+[Info][Found new Field Name] [[Assembly-CSharp]Objective Ring::objectiveScript] : bl
+[Info][Found new Field Name] [[Assembly-CSharp]System.Boolean Ring::ringActive] : bm
+[Info][Found new Property Name] [[Assembly-CSharp]SaveManager SaveManager::Instance] : a
+[Info][Found new Field Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=40 <PrivateImplementationDetails>::209BC91419B077509D2182A81E936F87FD29516E] : bn
+[Info][Found new Field Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=40 <PrivateImplementationDetails>::EFC2B8055FADCBBA19E86FCB59B61DEAA68D372A] : bo
+[Info][Process] Finished Step: Find obfuscated name for Members
+[Info][Process] Processing Step: Find obfuscated name for Methods
+[Info][FindName] [Assembly-CSharp] Find Method Names...
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::InitShop()] : a
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::InitLevel()] : b
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::SetCameraTo([netstandard]System.Int32)] : c
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::NavigateTo([netstandard]System.Int32)] : d
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::SetColor([netstandard]System.Int32)] : e
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::SetTrail([netstandard]System.Int32)] : f
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::UpdateGoldText()] : g
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::OnTrailSelect([netstandard]System.Int32)] : h
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::OnColorSelect([netstandard]System.Int32)] : i
+[Info][Found new Method Name] [[Assembly-CSharp]MenuScene::OnLevelSelect([netstandard]System.Int32)] : j
+[Info][Found new Method Name] [[Assembly-CSharp]Objective::Victory()] : k
+[Info][Process] Finished Step: Find obfuscated name for Methods
+[Info][Process] Processing Step: Find obfuscated name for Types
+[Info][FindName] [Assembly-CSharp] Find Type Names...
+[Info][Found new Type Name] [[Assembly-CSharp]<PrivateImplementationDetails>/__StaticArrayInitTypeSize=40] : a
+[Info][Process] Finished Step: Find obfuscated name for Types
+[Info][Process] Processing Step: Find obfuscated name for Namespaces
+[Info][FindName] [Assembly-CSharp] Find Namespace Names...
+[Info][Process] Finished Step: Find obfuscated name for Namespaces
+[Info][Process] Processing Step: Rename Fields
+[Info][Rename] [Assembly-CSharp] Rename Fields...
+[Info][Rename Field] [GameScene::fadeGroup] to a
+[Info][Rename Field] [GameScene::fadeInDuration] to b
+[Info][Rename Field] [GameScene::gameStarted] to c
+[Info][Rename Field] [GameScene::playerTransform] to d
+[Info][Rename Field] [Helper::hash] to e
+[Info][Rename Field] [Manager::activeTouches] to f
+[Info][Rename Field] [MenuCamera::desiredPosition] to g
+[Info][Rename Field] [MenuCamera::desiredRotation] to h
+[Info][Rename Field] [MenuCamera::startPosition] to i
+[Info][Rename Field] [MenuCamera::startRotation] to j
+[Info][Rename Field] [MenuScene::fadeGroup] to a
+[Info][Rename Field] [MenuScene::fadeInSpeed] to k
+[Info][Rename Field] [MenuScene::menuCam] to l
+[Info][Rename Field] [MenuScene::colorCost] to m
+[Info][Rename Field] [MenuScene::trailCost] to n
+[Info][Rename Field] [MenuScene::selectedColorIndex] to o
+[Info][Rename Field] [MenuScene::selectedTrailIndex] to p
+[Info][Rename Field] [MenuScene::activeColorIndex] to q
+[Info][Rename Field] [MenuScene::activeTrailIndex] to r
+[Info][Rename Field] [MenuScene::desiredMenuPosition] to s
+[Info][Rename Field] [MenuScene::currentTrail] to t
+[Info][Rename Field] [MenuScene::isEnteringLevel] to u
+[Info][Rename Field] [MenuScene::zoomDuration] to v
+[Info][Rename Field] [MenuScene::zoomTransition] to w
+[Info][Rename Field] [MenuScene::previousTrail] to x
+[Info][Rename Field] [MenuScene::lastPreviewObject] to y
+[Info][Rename Field] [Objective::rings] to z
+[Info][Rename Field] [Objective::ringPassed] to ba
+[Info][Rename Field] [PlayerCamera::desiredPosition] to g
+[Info][Rename Field] [PlayerCamera::offset] to bb
+[Info][Rename Field] [PlayerCamera::distance] to bc
+[Info][Rename Field] [PlayerMotor::controller] to bd
+[Info][Rename Field] [PlayerMotor::baseSpeed] to be
+[Info][Rename Field] [PlayerMotor::rotSpeedX] to bf
+[Info][Rename Field] [PlayerMotor::rotSpeedY] to bg
+[Info][Rename Field] [PlayerMotor::deathTime] to bh
+[Info][Rename Field] [PlayerMotor::deathDuration] to bi
+[Info][Rename Field] [Preloader::fadeGroup] to a
+[Info][Rename Field] [Preloader::loadTime] to bj
+[Info][Rename Field] [Preloader::minimumLogoTime] to bk
+[Info][Rename Field] [Ring::objectiveScript] to bl
+[Info][Rename Field] [Ring::ringActive] to bm
+[Info][Rename Field] [<PrivateImplementationDetails>::209BC91419B077509D2182A81E936F87FD29516E] to bn
+[Info][Rename Field] [<PrivateImplementationDetails>::EFC2B8055FADCBBA19E86FCB59B61DEAA68D372A] to bo
+[Info][Process] Finished Step: Rename Fields
+[Info][Process] Processing Step: Rename Properties and Events
+[Info][Rename] [Assembly-CSharp] Rename Properties and Events...
+[Info][Dropped Property] [Manager::Instance]
+[Info][Dropped Property] [SaveManager::Instance]
+[Info][Process] Finished Step: Rename Properties and Events
+[Info][Process] Processing Step: Rename Methods
+[Info][Rename] [Assembly-CSharp] Rename Methods...
+[Info][Rename Method] [MenuScene::InitShop] to a
+[Info][Rename Method] [MenuScene::InitLevel] to b
+[Info][Rename Method] [MenuScene::SetCameraTo] to c
+[Info][Rename Method] [MenuScene::NavigateTo] to d
+[Info][Rename Method] [MenuScene::SetColor] to e
+[Info][Rename Method] [MenuScene::SetTrail] to f
+[Info][Rename Method] [MenuScene::UpdateGoldText] to g
+[Info][Rename Method] [MenuScene::OnTrailSelect] to h
+[Info][Rename Method] [MenuScene::OnColorSelect] to i
+[Info][Rename Method] [MenuScene::OnLevelSelect] to j
+[Info][Rename Method] [Objective::Victory] to k
+[Info][Process] Finished Step: Rename Methods
+[Info][Process] Processing Step: Rename Types and Namespaces
+[Info][Rename] [Assembly-CSharp] Rename Type Names and Namespaces...
+[Info][Rename Type] [<PrivateImplementationDetails>/__StaticArrayInitTypeSize=40] to a
+[Info][Process] Finished Step: Rename Types and Namespaces
+[Info][Process] Processing Step: Rename Parameters
+[Info][Rename] [Assembly-CSharp] Rename Parameter...
+[Info][Process] Finished Step: Rename Parameters
+[Info][Process] Unlock Assemblies
+[Info][Process] Finished obfuscate Assemblies
+[Info][Save Assemblies] Saving...
+[Info][Save Assemblies] Saved.
